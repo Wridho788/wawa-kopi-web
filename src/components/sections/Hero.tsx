@@ -59,7 +59,7 @@ export default function Hero() {
               Lihat Menu
             </Button>
             <Button
-              href="https://maps.google.com"
+              href="https://maps.app.goo.gl/HJCvsjH8oCKA7Tu49"
               variant="secondary"
             >
               Buka di Google Maps →
